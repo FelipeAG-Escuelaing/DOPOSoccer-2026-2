@@ -4,7 +4,7 @@ DOPOSoccer es una adaptación de escritorio para PC del famoso videojuego mobile
 
 👥 Autores
 
-Felipe Amador González - @FelipeAG-Escuelaing
+Felipe Amador González
 
 Jean Paolo Peña Romero
 
